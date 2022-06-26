@@ -17,7 +17,7 @@ html, body {
 
 .left-item {
     flex: 50%;
-    margin-right:45%;
+    margin-right:5%;
     justify-content: flex-start;
     text-align: left;
 }
