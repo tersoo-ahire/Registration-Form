@@ -12,14 +12,13 @@ html, body {
     align-items: center;
     margin: 5% auto;
     /* padding: 0 5%; */
-    width: 70%;
+    width: 80%;
 }
 
 .left-item {
     flex: 50%;
     justify-content: flex-start;
     text-align: left;
-    padding-right:5%;
 }
 
 .heading {
