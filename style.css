@@ -16,7 +16,7 @@ html, body {
 }
 
 .left-item {
-    flex: 40%;
+    flex: 50%;
     justify-content: flex-start;
     text-align: left;
 }
@@ -36,7 +36,7 @@ html, body {
 }
 
 .right-item {
-    flex: 40%;
+    flex: 50%;
     margin: 0 5%;
     box-sizing: border-box;
     /* width: 80%; */
