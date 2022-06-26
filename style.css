@@ -19,6 +19,7 @@ html, body {
     flex: 50%;
     justify-content: flex-start;
     text-align: left;
+    padding-right:5%;
 }
 
 .heading {
