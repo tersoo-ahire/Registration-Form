@@ -141,6 +141,7 @@ input:focus {
     resize: vertical;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .update {
